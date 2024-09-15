@@ -66,7 +66,7 @@ Welcome to my **Cybersecurity Portfolio**. This repository showcases my hands-on
 
 ## 📫 **Get in Touch**
 
-Feel free to explore the documents and projects, and reach out to me if you have any questions or collaboration ideas!
+Feel free to explore the documents and projects, and reach out to me if you have any questions!
 
 - Email: [mitchelljkraus@gmail.com](mailto:mitchelljkraus@gmail.com)
 - LinkedIn: [Mitchell Kraus](https://www.linkedin.com/in/mitchell-kraus/)
